@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+##
+Sebelum meng-Run Project Laravel ini, lakukan php artisan migrate:fresh terlebih dahulu. Bisa juga dengan melakukan php artisan migrate:fresh --seed terlebih dahulu untuk melakukan proses migrate database beserta isi datanya.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
