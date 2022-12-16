@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##
+## Note
 Sebelum meng-Run Project Laravel ini, lakukan php artisan migrate:fresh terlebih dahulu. Bisa juga dengan melakukan php artisan migrate:fresh --seed terlebih dahulu untuk melakukan proses migrate database beserta isi datanya.
 
 ## About Laravel
